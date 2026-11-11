@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resepku
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# 2411532007_KelasA_AppMob_ResepKu
+>>>>>>> b6123f8596a25b6547b002b04a75037c23711e38
